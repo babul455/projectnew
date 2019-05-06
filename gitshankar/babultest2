@@ -1,0 +1,7 @@
+class humber
+{
+public static void main(string args[])
+{
+ sop ("this is the project that you have to do it")
+ }
+ }
